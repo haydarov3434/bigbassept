@@ -1,0 +1,9 @@
+{
+    "Work": false,
+    "Lc": ["Russian"],
+    "Tz": ["Istanbul", "Rio_Branco", "Cuiaba", "Manaus", "Bahia", "Sao_Paulo", "Noronha"],
+    "Linki": 
+    [ 
+          { "Lang":"Russian", "Link": "https://www.google.com/"}
+    ]
+ }
